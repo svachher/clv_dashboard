@@ -76,7 +76,7 @@ The dashboard includes:
 
 ## 🖼️ Preview Screenshot
 
-![Dashboard Preview](dashboard-screenshot.png)
+![Dashboard Preview]()
 
 _(Upload `dashboard-screenshot.png` in your repo to show this image)_
 
