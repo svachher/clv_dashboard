@@ -74,13 +74,17 @@ The dashboard includes:
 
 ---
 
-## 🖼️ Preview Screenshot
+## 🖼️ Dashboard Preview
 
-![Dashboard Preview]()
+### 📌 Main Dashboard
+![Main View](screenshot1.png)
 
-_(Upload `dashboard-screenshot.png` in your repo to show this image)_
+### 📊 CLV Distribution + Insights
+![CLV Charts](screenshot2.png)
 
----
+### 🧠 Final Summary & Strategic Insights
+![Summary Section](screenshot3.png)
+
 
 ## 📬 Author
 
