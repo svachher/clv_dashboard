@@ -86,7 +86,7 @@ _(Upload `dashboard-screenshot.png` in your repo to show this image)_
 
 - **Sahil Vachher**
 - [LinkedIn](https://www.linkedin.com/in/sahilvachher) (replace with yours if different)
-- Built for resume projects, product/data science interviews, and end-to-end ML storytelling
+
 
 ---
 
