@@ -77,14 +77,20 @@ The dashboard includes:
 ## 🖼️ Dashboard Preview
 
 ### 📌 Main Dashboard
-![Main View](screenshot1.png)
+<p align="center">
+  <img src="Screenshot1.png" width="700"/>
+</p>
 
 ### 📊 CLV Distribution + Insights
-![CLV Charts](screenshot2.png)
 
+<p align="center">
+  <img src="Screenshot2.png" width="700"/>
+</p>
 ### 🧠 Final Summary & Strategic Insights
-![Summary Section](screenshot3.png)
 
+<p align="center">
+  <img src="Screenshot3.png" width="700"/>
+</p>
 
 ## 📬 Author
 
