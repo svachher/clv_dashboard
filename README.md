@@ -84,12 +84,12 @@ The dashboard includes:
 ### 📊 CLV Distribution + Insights
 
 <p align="center">
-  <img src="Screenshot2.png" width="700"/>
+  <img src="Screenshot 2.png" width="700"/>
 </p>
 ### 🧠 Final Summary & Strategic Insights
 
 <p align="center">
-  <img src="Screenshot3.png" width="700"/>
+  <img src="Screenshot 3.png" width="700"/>
 </p>
 
 ## 📬 Author
