@@ -95,7 +95,7 @@ The dashboard includes:
 ## 📬 Author
 
 - **Sahil Vachher**
-- [LinkedIn](https://www.linkedin.com/in/sahilvachher) (replace with yours if different)
+- [LinkedIn](https://www.linkedin.com/in/sahilvachher) 
 
 
 ---
